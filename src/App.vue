@@ -136,6 +136,8 @@ const getPokemons = async function (limit = 12) {
 
   console.log(data);
 };
+
+getPokemons();
 </script>
 
 <style lang="scss">
